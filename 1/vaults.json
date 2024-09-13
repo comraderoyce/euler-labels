@@ -88,5 +88,26 @@
 		"name": "Dinero Protocol WETH",
 		"description": "A WETH vault collateralized by apxETH by Dinero Protocol.",
 		"entity": "dinero"
+	},
+	"0xce45ef0414de3516caf1bcf937bf7f2cf67873de": {
+		"name": "Stablecoin Maxi USDC",
+		"description": "The Stablecoin Maxi cluster USDC vault.",
+		"entity": ["re7-labs", "mev", "k3"]
+	},
+	"0x8dde384022d4de1d6c67891a8865f551c444dc4c": {
+		"name": "Stablecoin Maxi sUSDe",
+		"description": "The Stablecoin Maxi cluster sUSDe vault.",
+		"entity": ["re7-labs", "mev", "k3"]
+	},
+	"0xac73efa7696dc1c1617bbc20aec64422c8b70eda": {
+		"name": "Stablecoin Maxi USDe",
+		"description": "The Stablecoin Maxi cluster USDe vault.",
+		"entity": ["re7-labs", "mev", "k3"]
+	},
+	"0xe3eb096cd9a87c271567b0134f6de061c112a9e7": {
+		"name": "Stablecoin Maxi USD0",
+		"description": "The Stablecoin Maxi cluster USD0 vault.",
+		"entity": ["re7-labs", "mev", "k3"]
 	}
+	
 }
